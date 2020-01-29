@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">431822421636-eabb4fig4pkhm69smo4qlqlj6i2ia496.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://detector-2d7dc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">431822421636</string>
+    <string name="google_api_key" translatable="false">AIzaSyAbnS1OutHcfsIY8G84yBlbEJ32-iOImxo</string>
+    <string name="google_app_id" translatable="false">1:431822421636:android:3bd2a771d02b2251270cd1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAbnS1OutHcfsIY8G84yBlbEJ32-iOImxo</string>
+    <string name="google_storage_bucket" translatable="false">detector-2d7dc.appspot.com</string>
+    <string name="project_id" translatable="false">detector-2d7dc</string>
+</resources>

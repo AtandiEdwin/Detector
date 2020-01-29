@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Detector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Atandi\\.gradle\\caches\\transforms-2\\files-2.1\\feb7316fd465ab23077bd0ce627b1617\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,565",
+                        "endLines": "9,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "560,1076"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Atandi\\.gradle\\caches\\transforms-2\\files-2.1\\4797c83457be32cac5e52c9bfd7cc293\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "315"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1081",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1341"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Atandi\\.gradle\\caches\\transforms-2\\files-2.1\\75a5ce050ed54fe015bf2c83224bb8a3\\res\\values-v11\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "1346",
+                        "endLines": "24",
+                        "endColumns": "8",
+                        "endOffsets": "1467"
+                    }
+                }
+            ]
+        }
+    ]
+}

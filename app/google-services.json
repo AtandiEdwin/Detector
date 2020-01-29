@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431822421636",
+    "firebase_url": "https://detector-2d7dc.firebaseio.com",
+    "project_id": "detector-2d7dc",
+    "storage_bucket": "detector-2d7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431822421636:android:3bd2a771d02b2251270cd1",
+        "android_client_info": {
+          "package_name": "com.edwino.detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431822421636-eabb4fig4pkhm69smo4qlqlj6i2ia496.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbnS1OutHcfsIY8G84yBlbEJ32-iOImxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431822421636-eabb4fig4pkhm69smo4qlqlj6i2ia496.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
